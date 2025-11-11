@@ -120,4 +120,4 @@ Load cleaned data into SQL (scripts provided in /sql folder).
 
 Open Power BI and connect to your SQL database.
 
-Generate dashboard and export results.
+
